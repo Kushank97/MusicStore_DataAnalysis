@@ -1,5 +1,8 @@
 Music Store Data Analysis with SQL & Python
 
+![ChatGPT Image May 22, 2025, 03_57_51 PM](https://github.com/user-attachments/assets/627c9746-3b8f-466b-b6b2-fc4f4b1064c6)
+
+
 Welcome to the Music Store Data Analysis project.
 This project demonstrates how to extract business insights from a music store database using intermediate SQL queries and visualize the results using Python.
 
