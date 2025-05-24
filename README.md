@@ -1,4 +1,4 @@
-Music Store Data Analysis with SQL & Python
+
 
 ![ChatGPT Image May 22, 2025, 03_57_51 PM](https://github.com/user-attachments/assets/627c9746-3b8f-466b-b6b2-fc4f4b1064c6)
 
@@ -53,6 +53,7 @@ Interpreting and communicating analytical findings effectively
  Links
 
 Portfolio: [https://datascienceportfol.io/Kushank\_DA](https://datascienceportfol.io/Kushank_DA)
+
 LinkedIn: [https://www.linkedin.com/in/kushank-sharma-72bb86296](https://www.linkedin.com/in/kushank-sharma-72bb86296)
 
 
